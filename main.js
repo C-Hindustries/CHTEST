@@ -7,5 +7,5 @@ function buttonAlert() {
 
 function getRock() {
   rocks += 1;
-  document.getElementById("rockNum").innerHTML = "rocks";
+  document.getElementById("rockNum").innerHTML = rocks; 
 }
